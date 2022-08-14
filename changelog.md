@@ -12,12 +12,18 @@
 
 ## Version 1.0.99.0-adoption - `<Thank you Enceos>` edition
 
-* 12 Aug 2022  
+* 13 Aug 2022  
 * Released for Kerbal Space Program [KSP 1.12.x]
 
 ### Summary 1.0.99.0
 
 * Adoption by zer0Kerbal
+
+### Update License
+
+* Updated License: CC BY-SA 4.0
+  * was: CC BY 4.0
+* closes #25 - Updated  License
 
 ### docs/
 
@@ -32,14 +38,14 @@
   * [Notices.md] v1.0.1.0
   * [Parts-Catalog.md] v1.1.4.1
   * [Why.md] v1.1.0.0
-* closes #36 - docs/
+* closes #26 - docs/
 
 ### Add localized tags to parts
 
 * Add
   * [DropTankWrapper.cfg] v1.0.0.0
     * adds localized tags to parts
-* closes #38 - Add localized tags to parts
+* closes #28 - Add localized tags to parts
 
 ### Localization 1.0.99.0
 
@@ -50,7 +56,7 @@
     * [quickstart.md] v1.0.1.1
 * updates #5 - Localization Master
 * closes #6 - English <en-us.cfg>
-* closes #23 - Part Localization
+* closes #19 - Part Localization
 
 ### Asset Updates
 
@@ -76,7 +82,7 @@
   * Add
     * <ghostParts.cfg> v1.3.0.1
     * in order to prevent name changes from breaking compatibility
-* closes #35 - Asset Updates
+* closes #27 - Asset Updates
 
 ### Compatibility 1.0.99.0
 
