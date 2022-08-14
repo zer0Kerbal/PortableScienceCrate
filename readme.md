@@ -51,7 +51,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
-> * Model updates to Unity 2019
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlight
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -89,10 +88,18 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Suggests
 
-Also by KerbalHacks
+Also by Kerbal Hacks by [Enceos][enceos]
 
 * [Drop Tank Wrapper (DROP)][DROP]
 * [Portable Science Crate (PSC)][PRC]
+* [Simple Mission Flags (SMF)][SMF]
+* [Hazard Tanks Textures (HZT)][HZT]
+* [Ven's Style Textures (VST)][VST]
+* [Asphalt Tiles (AT)][AT]
+* [More Asphalt Tiles (AT)][MAT]
+* [Large Stock Fairings (LSF)][LSF]
+* [Animated Station Screens (ASS)][ASS]
+* [KIS Props (KISP)][KISP]
 
 ### Supports
 
@@ -208,8 +215,18 @@ parts, resources
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
 [KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/ "Kerbal Hacks Ltd(KH/L)"
+
 [DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/  "Drop Tank Wrapper (DROP)"
 [PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Crate (PSC)"
+
+[ASS] https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Animated Station Screens (ASS)"
+[AT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Asphalt Tiles (AT)"
+[HZT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Hazard Tanks Textures (HZT)"
+[KISP] https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "KIS Props (KISP)"
+[LSF] https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Large Stock Fairings (LSF)"
+[MAT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "More Asphalt Tiles (AT)"
+[SMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Simple Mission Flags (SMF)"
+[VST] https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Ven's Style Textures (VST)"
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
@@ -257,8 +274,6 @@ parts, resources
 [enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"
 [roverdude]: https://forum.kerbalspaceprogram.com/index.php?/profile/105198-*/ "Roverdude"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
 
 ---
 
