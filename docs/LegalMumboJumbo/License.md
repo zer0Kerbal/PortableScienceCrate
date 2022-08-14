@@ -1,47 +1,37 @@
 ---
 permalink: /License.html
-title: CC BY 4.0
+title: CC BY-SA 4.0
 ---
-<!-- CC-BY-4.0.md v1.0.0.0
-<MOD-NAME> <ABBV>
-created: 12 Aug 2022
-updated:  -->
+<!-- CC-BY-SA-4.0.md v1.0.1.0
+Portable Science Crate (PSC)
+created: 01 Feb 2022
+updated: 10 May 2022 -->
 
-# [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
+# [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
 
-![CC](https://creativecommons.org/images/deed/svg/cc_blue.svg)![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_blue.svg)
+![CC](https://creativecommons.org/images/deed/svg/cc_blue.svg)![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_blue.svg)![Share Alike](https://creativecommons.org/images/deed/svg/sa_blue.svg)
 
-## [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
+## [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
 
-Official translations of this license are available [in other languages](https://creativecommons.org/licenses/by/4.0/legalcode#languages).
+Official translations of this license are available [in other languages](https://creativecommons.org/licenses/by-sa/4.0/legalcode#languages).
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
-
-**Using Creative Commons Public Licenses**
-
-Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
-
-**Considerations for licensors:** Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors.](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)[*![img](https://creativecommons.org/images/deed/svg/deed_arrow_orange.svg)*](https://creativecommons.org/licenses/by/4.0/legalcode#)
-
-**Considerations for the public:** By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public.](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)[*![img](https://creativecommons.org/images/deed/svg/deed_arrow_orange.svg)*](https://creativecommons.org/licenses/by/4.0/legalcode#)
-
-### Creative Commons Attribution 4.0 International Public License
-
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
 **Section 1 – Definitions.**
 
 1. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 2. **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
-3. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section [2(b)(1)-(2)](https://creativecommons.org/licenses/by/4.0/legalcode#s2b) are not Copyright and Similar Rights.
-4. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
-5. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
-6. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
-7. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
-8. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
-9. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-10. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-11. **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
+3. **BY-SA Compatible License** means a license listed at [creativecommons.org/compatiblelicenses](https://creativecommons.org/compatiblelicenses), approved by Creative Commons as essentially the equivalent of this Public License.
+4. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section [2(b)(1)-(2)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s2b) are not Copyright and Similar Rights.
+5. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+6. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+7. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
+8. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+9. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+10. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+11. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+12. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+13. **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
 
 **Section 2 – Scope.**
 
@@ -56,18 +46,19 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
    2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
-   3. Term. The term of this Public License is specified in Section [6(a)](https://creativecommons.org/licenses/by/4.0/legalcode#s6a).
+   3. Term. The term of this Public License is specified in Section [6(a)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s6a).
 
-   4. Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](https://creativecommons.org/licenses/by/4.0/legalcode#s2a4) never produces Adapted Material.
+   4. Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s2a4) never produces Adapted Material.
 
    5. Downstream recipients
 
       .
 
       1. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
-      2. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+      2. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+      3. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
-   6. No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](https://creativecommons.org/licenses/by/4.0/legalcode#s3a1Ai).
+   6. No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a1Ai).
 
 2. **Other rights**.
 
@@ -80,6 +71,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
 1. **Attribution**.
+
    1. If You Share the Licensed Material (including in modified form), You must:
       1. retain the following if it is supplied by the Licensor with the Licensed Material:
          1. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
@@ -89,19 +81,28 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
          5. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
       2. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
       3. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
-   2. You may satisfy the conditions in Section [3(a)(1)](https://creativecommons.org/licenses/by/4.0/legalcode#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
-   3. If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](https://creativecommons.org/licenses/by/4.0/legalcode#s3a1A) to the extent reasonably practicable.
-   4. If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
+   2. You may satisfy the conditions in Section [3(a)(1)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+   3. If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a1A) to the extent reasonably practicable.
+
+2. ShareAlike
+
+   .
+
+   In addition to the conditions in Section [3(a)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a), if You Share Adapted Material You produce, the following conditions also apply.
+
+   1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
+   2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+   3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
 
 **Section 4 – Sui Generis Database Rights.**
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
-1. for the avoidance of doubt, Section [2(a)(1)](https://creativecommons.org/licenses/by/4.0/legalcode#s2a1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
-2. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
-3. You must comply with the conditions in Section [3(a)](https://creativecommons.org/licenses/by/4.0/legalcode#s3a) if You Share all or a substantial portion of the contents of the database.
+1. for the avoidance of doubt, Section [2(a)(1)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s2a1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+2. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section [3(b)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3b); and
+3. You must comply with the conditions in Section [3(a)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a) if You Share all or a substantial portion of the contents of the database.
 
-For the avoidance of doubt, this Section [4](https://creativecommons.org/licenses/by/4.0/legalcode#s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+For the avoidance of doubt, this Section [4](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
 **Section 5 – Disclaimer of Warranties and Limitation of Liability.**
 
@@ -114,7 +115,7 @@ For the avoidance of doubt, this Section [4](https://creativecommons.org/license
 
 1. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
-2. Where Your right to use the Licensed Material has terminated under Section [6(a)](https://creativecommons.org/licenses/by/4.0/legalcode#s6a), it reinstates:
+2. Where Your right to use the Licensed Material has terminated under Section [6(a)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s6a), it reinstates:
 
    1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
    2. upon express reinstatement by the Licensor.
@@ -131,7 +132,7 @@ For the avoidance of doubt, this Section [4](https://creativecommons.org/license
 
 3. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
-4. Sections [1](https://creativecommons.org/licenses/by/4.0/legalcode#s1), [5](https://creativecommons.org/licenses/by/4.0/legalcode#s5), [6](https://creativecommons.org/licenses/by/4.0/legalcode#s6), [7](https://creativecommons.org/licenses/by/4.0/legalcode#s7), and [8](https://creativecommons.org/licenses/by/4.0/legalcode#s8) survive termination of this Public License.
+4. Sections [1](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s1), [5](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s5), [6](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s6), [7](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s7), and [8](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s8) survive termination of this Public License.
 
 **Section 7 – Other Terms and Conditions.**
 
@@ -149,6 +150,8 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 
 Creative Commons may be contacted at [creativecommons.org](https://creativecommons.org/).
 
-Additional languages available: [العربية](https://creativecommons.org/licenses/by/4.0/legalcode.ar), [čeština](https://creativecommons.org/licenses/by/4.0/legalcode.cs), [Deutsch](https://creativecommons.org/licenses/by/4.0/legalcode.de), [Ελληνικά](https://creativecommons.org/licenses/by/4.0/legalcode.el), [Español](https://creativecommons.org/licenses/by/4.0/legalcode.es), [euskara](https://creativecommons.org/licenses/by/4.0/legalcode.eu), [suomeksi](https://creativecommons.org/licenses/by/4.0/legalcode.fi), [français](https://creativecommons.org/licenses/by/4.0/legalcode.fr), [hrvatski](https://creativecommons.org/licenses/by/4.0/legalcode.hr), [Bahasa Indonesia](https://creativecommons.org/licenses/by/4.0/legalcode.id), [italiano](https://creativecommons.org/licenses/by/4.0/legalcode.it), [日本語](https://creativecommons.org/licenses/by/4.0/legalcode.ja), [한국어](https://creativecommons.org/licenses/by/4.0/legalcode.ko), [Lietuvių](https://creativecommons.org/licenses/by/4.0/legalcode.lt), [latviski](https://creativecommons.org/licenses/by/4.0/legalcode.lv), [te reo Māori](https://creativecommons.org/licenses/by/4.0/legalcode.mi), [Nederlands](https://creativecommons.org/licenses/by/4.0/legalcode.nl), [norsk](https://creativecommons.org/licenses/by/4.0/legalcode.no), [polski](https://creativecommons.org/licenses/by/4.0/legalcode.pl), [português](https://creativecommons.org/licenses/by/4.0/legalcode.pt), [română](https://creativecommons.org/licenses/by/4.0/legalcode.ro), [русский](https://creativecommons.org/licenses/by/4.0/legalcode.ru), [Slovenščina](https://creativecommons.org/licenses/by/4.0/legalcode.sl), [svenska](https://creativecommons.org/licenses/by/4.0/legalcode.sv), [Türkçe](https://creativecommons.org/licenses/by/4.0/legalcode.tr), [українська](https://creativecommons.org/licenses/by/4.0/legalcode.uk), [中文](https://creativecommons.org/licenses/by/4.0/legalcode.zh-Hans), [華語](https://creativecommons.org/licenses/by/4.0/legalcode.zh-Hant). Please read the [FAQ](https://creativecommons.org/faq/#officialtranslations) for more information about official translations.
+---
 
-<!-- CC BY 4.0 by zer0Kerbal -->
+Additional languages available: [العربية](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ar), [čeština](https://creativecommons.org/licenses/by-sa/4.0/legalcode.cs), [Deutsch](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de), [Ελληνικά](https://creativecommons.org/licenses/by-sa/4.0/legalcode.el), [Español](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), [euskara](https://creativecommons.org/licenses/by-sa/4.0/legalcode.eu), [suomeksi](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fi), [français](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr), [hrvatski](https://creativecommons.org/licenses/by-sa/4.0/legalcode.hr), [Bahasa Indonesia](https://creativecommons.org/licenses/by-sa/4.0/legalcode.id), [italiano](https://creativecommons.org/licenses/by-sa/4.0/legalcode.it), [日本語](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ja), [한국어](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko), [Lietuvių](https://creativecommons.org/licenses/by-sa/4.0/legalcode.lt), [latviski](https://creativecommons.org/licenses/by-sa/4.0/legalcode.lv), [te reo Māori](https://creativecommons.org/licenses/by-sa/4.0/legalcode.mi), [Nederlands](https://creativecommons.org/licenses/by-sa/4.0/legalcode.nl), [norsk](https://creativecommons.org/licenses/by-sa/4.0/legalcode.no), [polski](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl), [português](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pt), [română](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ro), [русский](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru), [Slovenščina](https://creativecommons.org/licenses/by-sa/4.0/legalcode.sl), [svenska](https://creativecommons.org/licenses/by-sa/4.0/legalcode.sv), [Türkçe](https://creativecommons.org/licenses/by-sa/4.0/legalcode.tr), [українська](https://creativecommons.org/licenses/by-sa/4.0/legalcode.uk), [中文](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans), [華語](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hant). Please read the [FAQ](https://creativecommons.org/faq/#officialtranslations) for more information about official translations.
+
+<!-- CC BY-ND 4.0 by zer0Kerbal -->
