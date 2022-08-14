@@ -15,25 +15,23 @@ updated: 10 Aug 2022 -->
 
 Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal Space Program
 
-<img src="https://i.imgur.com/2By8Ooy.gif" alt="Portable Science Crate Hero" width="50%" height="50%">
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Enceos`][enceos]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
+<img src="https://i.imgur.com/2By8Ooy.gif" alt="Portable Science Crate Hero" width="25%" height="25%">
+
 <img src="https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/img/HeroLogo_1920x1920.png" alt="PortableScienceCrate Hero" width="50%" height="50%">
 
-### Description
-
-* It's always nice to add some extra fuel without adding much to the size of the spacecraft
-* Has 4 sizes of different length
-* Very Fairing friendly due to its shape
-* Has a stock crossfeed switcher
-* Integrated decoupler
-* Aeroynamic nosecap to close the ends or make a boat
-* Stockalike texture will blend in with any craft
-* TweakScale support
+### Description by [Enceos][enceos]
+>
+> Based on [RoverDude's][roverdude] part from the PackRat era. Useful for storing all the EVA gathered science on the fly. Can be sent back home on a probe without distracting the Kerbal from his other planetary activities. Serves the same purpose as the Stock Science Box.
+>
+> Great for rovers with External Command Seats and for small pods from other mods which deliberately don't have science storage in them.\n\n
+>
+> ~Requires KIS for the best experience.~
 
 ---
 
@@ -100,8 +98,8 @@ Also by KerbalHacks
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* Kerbal Inventory System (KIS)][kis]
-* Kerbal Attachment System (KAS)][kas]
+* [Kerbal Inventory System (KIS)][kis]
+* [Kerbal Attachment System (KAS)][kas]
 * Either [^3]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
@@ -120,6 +118,7 @@ parts, resources
 ### Credits and Special Thanks
 
 * [`Enceos`][enceos] for creating this glorious parts addon!
+* [`RoverDude`][roverdude] for the original part
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -255,7 +254,8 @@ parts, resources
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
-[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"  
+[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"
+[roverdude](https://forum.kerbalspaceprogram.com/index.php?/profile/105198-*/) "Roverdude"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 [IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
