@@ -81,6 +81,6 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * [Kerbal Hacks Ltd. (KH/L)][KHL]
 
-[KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Kerbal Hacks Ltd. (KH/L)"
+[KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/ "Kerbal Hacks Ltd(KH/L)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
