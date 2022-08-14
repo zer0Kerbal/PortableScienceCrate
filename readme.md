@@ -92,7 +92,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 Also by KerbalHacks
 
 * [Drop Tank Wrapper (DROP)][DROP]
-* [Portable Science Container (PRC)][PRC]
+* [Portable Science Crate (PRC)][PRC]
 
 ### Supports
 
@@ -209,7 +209,7 @@ parts, resources
 
 [KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/ "Kerbal Hacks Ltd(KH/L)"
 [DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/  "Drop Tank Wrapper (DROP)"
-[PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Container (PRC)"
+[PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Crate (PRC)"
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
