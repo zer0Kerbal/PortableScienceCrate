@@ -24,6 +24,7 @@ based upon work by LisiasT -->
 
 * "Portable Science Crate" is trademark of Enceos
 * "Kerbal Hacks" is trademark of Enceos
+* "Kerbal Hacks Ltd" is trademark of zer0Kerbal
 * "PSC"" is a trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
@@ -33,6 +34,10 @@ based upon work by LisiasT -->
 ## Kerbal Hacks (KH) (KerbalHacks)
 
 * "Kerbal Hacks (KerbalHacks) (KH)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+
+## Kerbal Hacks Ltd. (KH/L) (KerbalHacksLtd)
+
+* "Kerbal Hacks Ltd. (KH/L) (KerbalHacksLtd)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo) (KerbSimpleCo)
 
