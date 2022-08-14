@@ -18,6 +18,25 @@
 
 * Adoption by zer0Kerbal
 
+### Parts 1.0.99.0
+
+* update
+  * [psc-science-crate] v2.0.0.0
+    * [tags] #autoLOC_500696 // science
+    * [angularDrag] was 2 now 2
+    * [crashTolerance] was 20 now 15
+    * [breakingForce] was 20 now 250
+    * [breakingTorque] was 20 now 250
+    * [maxTemp] was 1200 now 2900
+    * [ModuleScienceContainer]
+      * [storageRange] was 1.3 now 2.3
+  * Add
+    * [heatConductivity] = 0.04
+    * [thermalMassModifier] = 5.0
+    * [emissiveConstant] = 0.95
+    * [ModuleConductionMultiplier]
+    * [DRAG_CUBE]]
+
 ### Update License
 
 * Updated License: CC BY-SA 4.0
@@ -53,6 +72,10 @@
     * <en-us.cfg>
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
+* Update
+  * [psc-science-crate]
+    * [manufacurer], [title], [description] and [tags] are localized
+    * [ModuleScienceContainer] actions are now localized
 * updates #5 - Localization Master
 * closes #6 - English <en-us.cfg>
 * closes #19 - Part Localization
@@ -89,7 +112,8 @@
 ### Documentation
 
 * Update
-  * [Readme.md]
+  * [Readme.md] v1.6.9.4
+  * [_releaseNotes.md] v1.3.2.1
   * [.version]
 
 ### Status 1.0.99.0
