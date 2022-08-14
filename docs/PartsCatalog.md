@@ -23,7 +23,7 @@ This add-on adds one (1) science EVA part
 
 ---
 
-* Science Crate
+* Portable Science Crate
 
   <img src="https://raw.githubusercontent.com/zer0KerbalPortableScienceCratemaster/GameDataPortableScienceCrateParts/%40thumbs/psc-science-crate_icon.png" alt="Mallet" width="25%" height="25%" />
 
