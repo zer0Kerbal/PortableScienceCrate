@@ -13,7 +13,7 @@ updated: 10 Aug 2022 -->
 
 # Portable Science Crate (PRC)
 
-Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal Space Program
+Useful for storing all the EVA gathered science on the fly. Can be sent back home on a probe without distracting the Kerbal from his other planetary activities. Serves the same purpose as the Stock Science Box./n Great for rovers with External Command Seats and for small pods from other mods which deliberately don't have science storage in them. Requires KIS for the best experience.
 
 
 
