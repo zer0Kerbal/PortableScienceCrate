@@ -72,29 +72,25 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts/
-* rename parts to standardized names (e.g. drop-)
-  * <WrapperTankLong> --> <drop-tank-sleeve> v2.0.0.0
-  * <WrapperTankBracelet> --> <drop-tank-bracelet> v2.0.0.0
-  * <WrapperTank> --> <drop-tank-wrapper> v2.0.0.0
-  * <WrapperCap> --> <drop-tank-cap> v2.0.0.0
-  * <WrapperTankWristband> --> <drop-tank-wristband> v2.0.0.0
-  * Add
-    * <ghostParts.cfg> v1.3.0.1
-    * in order to prevent name changes from breaking compatibility
+* rename
+  * <ScienceCrate.cfg> to <psc-science-crate.cfg> v2.0.0.0
+  * parts to standardized names (e.g. psc-)
+    * [name] Science_Crate to psc-science-crate
+    * Add
+      * <ghostParts.cfg> v1.3.0.1
+      * in order to prevent name changes from breaking compatibility
 * closes #27 - Asset Updates
 
 ### Compatibility 1.0.99.0
 
 * Add
-  * <InterstellarFuelSwitch.cfg> v1.0.0.0
-  * <TweakScale.cfg> v1.0.0.0
+  * <KerbalInventorySystem.cfg> v1.0.0.0
 
 ### Documentation
 
 * Update
   * [Readme.md]
   * [.version]
-    * remove [KSP_VERSION_MAX]
 
 ### Status 1.0.99.0
 
