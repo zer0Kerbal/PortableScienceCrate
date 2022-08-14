@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.4
-Portable Science Crate (PRC)
+Portable Science Crate (PSC)
 created: 17 Jul 2017
 updated: 10 Aug 2022 -->
 
@@ -11,7 +11,7 @@ updated: 10 Aug 2022 -->
 
 
 
-# Portable Science Crate (PRC)
+# Portable Science Crate (PSC)
 
 Useful for storing all the EVA gathered science on the fly. Can be sent back home on a probe without distracting the Kerbal from his other planetary activities. Serves the same purpose as the Stock Science Box./n Great for rovers with External Command Seats and for small pods from other mods which deliberately don't have science storage in them. Requires KIS for the best experience.
 
@@ -92,7 +92,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 Also by KerbalHacks
 
 * [Drop Tank Wrapper (DROP)][DROP]
-* [Portable Science Crate (PRC)][PRC]
+* [Portable Science Crate (PSC)][PRC]
 
 ### Supports
 
@@ -209,7 +209,7 @@ parts, resources
 
 [KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/ "Kerbal Hacks Ltd(KH/L)"
 [DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/  "Drop Tank Wrapper (DROP)"
-[PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Crate (PRC)"
+[PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Crate (PSC)"
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
