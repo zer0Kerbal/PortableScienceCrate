@@ -255,7 +255,7 @@ parts, resources
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
 [enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"
-[roverdude](https://forum.kerbalspaceprogram.com/index.php?/profile/105198-*/) "Roverdude"
+[roverdude]: https://forum.kerbalspaceprogram.com/index.php?/profile/105198-*/ "Roverdude"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 [IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
