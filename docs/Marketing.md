@@ -20,6 +20,9 @@ based upon work by LisiasT -->
 
 [Home](./index.md)
 
+[![2By8Ooy.gif](https://i.imgur.com/2By8Ooy.gif)](https://i.imgur.com/2By8Ooy.gif)
+[![9FLPlC2.jpg](https://i.imgur.com/9FLPlC2.jpg)](https://i.imgur.com/9FLPlC2.jpg)
+
 ## Marketing Slicks
 
 * Table of Contents)
