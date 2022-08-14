@@ -9,6 +9,7 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/PortableScienceCrate) |
 | spacedock  | (https://spacedock.info/mod/3080)                                 |
 | ckan       | PortableScienceCrate                                              |
+
 ## Version 1.0.99.0-adoption - `<Thank you Enceos>` edition
 
 * 13 Aug 2022  
@@ -20,7 +21,7 @@
 
 ### Parts 1.0.99.0
 
-* update
+* Update
   * [psc-science-crate] v2.0.0.0
     * [tags] #autoLOC_500696 // science
     * [angularDrag] was 2 now 2
@@ -35,7 +36,8 @@
     * [thermalMassModifier] = 5.0
     * [emissiveConstant] = 0.95
     * [ModuleConductionMultiplier]
-    * [DRAG_CUBE]]
+    * [DRAG_CUBE]
+    * thumbnail
 
 ### Update License
 
