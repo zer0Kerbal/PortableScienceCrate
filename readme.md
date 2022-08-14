@@ -1,29 +1,41 @@
-<!-- readme.md v1.6.9.3
-Portable Science Crate (PSC)
+<!-- readme.md v1.6.9.4
+Portable Science Crate (PRC)
 created: 17 Jul 2017
-updated: 31 Jul 2022 -->
+updated: 10 Aug 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Axial Aerospace Ltd][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Portable Science Crate][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
 
-# Portable Science Crate (PSC)
+# Portable Science Crate (PRC)
 
-*It's what we do*
+Stockalike curved wraparound droptanks with an integrated decoupler for Kerbal Space Program
 
-Adds Axial Aerospace Ltd. Agent, Flags, and common config files used in all Axial Aerospace's add-ons for Kerbal Space Program.
+<img src="https://i.imgur.com/2By8Ooy.gif" alt="Portable Science Crate Hero" width="50%" height="50%">
 
 
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`Enceos`][enceos]
 
-## By [`zer0Kerbal`][zer0Kerbal], inspired by [`artwhaley`][artwhaley]
+adopted with *express* permission and brought to you by *KerbSimpleCo*
 
- An original creation of *KerbSimpleCo*
+<img src="https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/img/HeroLogo_1920x1920.png" alt="PortableScienceCrate Hero" width="50%" height="50%">
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/img/HeroLogo_1920x1920.png" alt="PortableScienceCrate Hero" width="72%" height="72%">
+### Description
+
+* It's always nice to add some extra fuel without adding much to the size of the spacecraft
+* Has 4 sizes of different length
+* Very Fairing friendly due to its shape
+* Has a stock crossfeed switcher
+* Integrated decoupler
+* Aeroynamic nosecap to close the ends or make a boat
+* Stockalike texture will blend in with any craft
+* TweakScale support
+
+---
 
 ### See More
 
@@ -34,11 +46,18 @@ Adds Axial Aerospace Ltd. Agent, Flags, and common config files used in all Axia
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
 * GitHub Pages : See [Pages][MOD:pages]
 
+---
+
 ### Help Wanted
 
-> * Logo(s) for Axial Aerospace Ltd
-> * Additiona flags
+> * Compatibility patches
+> * Contracts for these glorious parts
+> * Variant Textures
+> * Model updates to Unity 2019
+> * Marketing Images and Videos such as hero shots, animated gifs, short highlight
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
+
+---
 
 ### Localization
 
@@ -61,35 +80,35 @@ Adds Axial Aerospace Ltd. Agent, Flags, and common config files used in all Axia
 Whilst I agree CKAN is a great mod for those that can't use zip tools. I take no part, nor am I interested in maintaining the CKAN mod metadata for my mods.
 Please don't ask me about it but refer to the CKAN mod thread if you are having issues with CKAN or the metadata it maintains. Beware, CKAN *can* really mess up though it tries very, very, very hard not to.
 
+When I make a serious save / mod breaking change, CKAN will happily update you without you ever seeing a changelog. This means you could happily load your save, not notice the major version number has changed, and seriously break something. I do not like this. So CKAN users must use Kerbal Changelog, because that way nobody can say they weren't warned :).
+
 or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+* [Kerbal Hacks Ltd(KH/L)][KHL]
 
 ### Suggests
 
-* [WhimChaser (WHIM)][WHIM]
-* [Dreamer (DREAM)][DREAM]
-* [Simple Cargo Solutions (CARGO)][CARGO]
-* [LanderTek (LTK)][LTEK]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [TweakScale][twk]
+Also by KerbalHacks
+
+* [Drop Tank Wrapper (DROP)][DROP]
+* [Portable Science Container (PRC)][PRC]
 
 ### Supports
 
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* Kerbal Inventory System (KIS)][kis]
+* Kerbal Attachment System (KAS)][kas]
 * Either [^3]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
 
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-
 ### Tags
 
-* agency
-* flag
-* config
+parts, resources
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
@@ -100,12 +119,12 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Credits and Special Thanks
 
-* [artwhaley][artwhaley] for the inspiration to create this mod
+* [`Enceos`][enceos] for creating this glorious parts addon!
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Original (0) - Author: [`zer0Kerbal`][zer0Kerbal]
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
@@ -117,12 +136,17 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
+#### Original (0) - Author: [`Enceos`][enceos]
+
+> Forum: [Thread][MOD:0:thread] - Download: [DropBox][MOD:0:dnload] - Source: [DropBox][MOD:0:source]  
+> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
+
 ---
 
 ### DONATIONS: How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
 > ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
-> <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" height="25" >cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
+> <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width ="25" height="25" >cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
@@ -132,7 +156,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/PortableScienceCrate/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "PortableScienceCrate Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "PortableScienceCrate Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/PortableScienceCrate/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/PortableScienceCrate/blob/master/LICENSE "Github License"
 [MOD:markt]: https://zer0kerbal.github.io/PortableScienceCrate/Marketing "Marketing Slicks"
@@ -148,22 +172,18 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/PortableScienceCrate "CurseForge"
-[MOD:0:source]: https://github.com/zer0Kerbal/PortableScienceCrate "GitHub"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "KSP Forum"
+[MOD:0:dnload]: https://www.dropbox.com/s/4mdhw6vviqn4im4/ScienceCrate.zip "DropBox"
+[MOD:0:source]: https://www.dropbox.com/s/4mdhw6vviqn4im4/ScienceCrate.zip "DropBox"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "KSP Forum"
 
 <!--- license provenance -->
-[LIC:0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2"  
-[LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"
-[LIC:0:shd]: https://img.shields.io/badge/License-GPLv2-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPLv2"
+[LIC:0:url]: https://creativecommons.org/licenses/by/4.0/ "CC BY 4.0"
+[LIC:0:log]: https://licensebuttons.net/i/l/by/transparent/33/66/99/76x22.png "CC BY 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY 4.0"
 
-[LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2"  
-[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/json/license.json
-
-<!--- AVC -->
-[AVC:shd]: https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
-[AVCVLD:shd]: https://github.com/zer0Kerbal/PortableScienceCrate/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
+[LIC:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/json/license.json "CC BY-SA 4.0"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
@@ -177,7 +197,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [GITHUB:url]: https://github.com/zer0Kerbal/PortableScienceCrate/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/3076 "SpaceDock"
+[SPCDCK:url]: http://spacedock.info/mod/3080 "SpaceDock"
 [SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
 <!-- Kerbal Space Program -->
@@ -188,15 +208,15 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
+[KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/ "Kerbal Hacks Ltd(KH/L)"
+[DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/  "Drop Tank Wrapper (DROP)"
+[PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Container (PRC)"
+
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
+[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-
-[CARGO]: https://forum.kerbalspaceprogram.com/index.php?/topic/126402-/ "Simple Cargo Solutions (CARGO)"
-[DREAM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/ "Dreamer (DREAM)"
-[LTEK]: https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/ "LanderTek (LTK)"
-[WHIM]: https://forum.kerbalspaceprogram.com/index.php?/topic/204900-*/ "WhimChaser (WHIM)"
-[AAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "AxialAerospace Ltd. (AA/L)"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -235,8 +255,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
-[artwhaley]: https://forum.kerbalspaceprogram.com/index.php?/profile/118388-*/ "artwhaley"
+[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+
+[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
 
 ---
 
