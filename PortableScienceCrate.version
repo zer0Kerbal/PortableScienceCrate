@@ -1,0 +1,30 @@
+{
+	"NAME"		     : "Portable Science Crate (PSC)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/PortableScienceCrate.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/PortableScienceCrate/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "PortableScienceCrate",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 0,
+		"PATCH" : 0,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 3,
+		"PATCH" : 1
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "PortableScienceCrate",
+		"DIRECTORY" : "KerbalHacks/PortableScienceCrate"
+	}
+}
