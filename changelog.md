@@ -18,6 +18,8 @@
 ### Summary 1.0.99.0
 
 * Adoption by zer0Kerbal
+* Localization
+  * English
 
 ### Parts 1.0.99.0
 
