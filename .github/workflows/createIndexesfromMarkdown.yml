@@ -16,8 +16,6 @@ on:
   workflow_dispatch:
 
 # permissions: write-all
-permissions:
-  pull-requests: write
 
 jobs:
   build:
